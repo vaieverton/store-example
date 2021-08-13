@@ -1,0 +1,13 @@
+.main-sidebar {
+    background-color: #1a1a1a;
+}
+
+.toggled {
+    width: 100px;
+    height: 100vh;
+}
+
+.untoggled {
+    width: 39px;
+    height: 100vh;
+}
